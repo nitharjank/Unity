@@ -15,12 +15,7 @@ namespace Assets.Teleportal.Scripts
 
         private void OnTriggerEnter(Collider other)
         {
-            Debug.Log("WTF");
-            //if (other.gameObject.name == "Sale1")
-            //{
-            //    Debug.Log("Collision detected");
-            //}
-
+            Debug.Log("Collision detected");
         }
 
 

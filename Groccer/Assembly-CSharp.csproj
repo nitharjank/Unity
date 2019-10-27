@@ -81,49 +81,49 @@
     <None Include="Assets\Teleportal\Shaders\Glass.shader" />
     <None Include="Assets\Teleportal\Fonts\TMP_SDF.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Subsystem.Registration">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARSubsystems">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation.Editor">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/nitharjan/Groccer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -303,10 +303,10 @@
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="TeleportalLibrary">
-      <HintPath>/Users/nitharjan/Groccer/Assets/Teleportal/Plugins/TeleportalLibrary.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Assets/Teleportal/Plugins/TeleportalLibrary.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>/Users/nitharjan/Groccer/Assets/Teleportal/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>/Users/nitharjan/Desktop/GaTech/HackGT6/Unity/Groccer/Assets/Teleportal/Plugins/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
