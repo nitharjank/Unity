@@ -20,7 +20,7 @@ public class EvanAnimator : MonoBehaviour
 
     void Update()
     {
-        transform.position += new Vector3(0.0f, (0.01f * Mathf.Sin(Time.time * 4)), 0.0f);
+        transform.position += new Vector3(transform.forward.x, (transform.forward.z), 0.0f);
         //transform.position += new Vector3(0.0f, (0.01f * Mathf.Sin(Time.time * 4)), 0.0f);
         //transform.position += transform.forward.x;
         //transform.position += TPObject.GetEarthTransform();
