@@ -39,12 +39,6 @@ public class Projectile : MonoBehaviour
     // COLLISIONS //
 
     void OnCollisionEnter(Collision c) {
-
-        //if (c.gameObject.name == "Sale1")
-        //{
-        //    Debug.Log("Collision detected");
-        //}
-
         TPObject tpo = c.collider.gameObject.GetComponent<TPObject>();
         if (tpo != null)
         {

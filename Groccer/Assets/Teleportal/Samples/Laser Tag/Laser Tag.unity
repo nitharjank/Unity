@@ -745,7 +745,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Welcome to DealAR
+  m_Text: Welcome to GoShop
 --- !u!222 &897535293
 CanvasRenderer:
   m_ObjectHideFlags: 0

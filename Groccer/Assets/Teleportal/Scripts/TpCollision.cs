@@ -10,7 +10,7 @@ namespace Assets.Teleportal.Scripts
         public bool enter = true;
         void Update()
         {
-            
+              
         }
 
         private void OnTriggerEnter(Collider other)
