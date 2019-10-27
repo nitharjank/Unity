@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{528A230B-5ADD-1ADB-4204-B581216ADE01}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Teleportal/Scripts/TpCollision.cs">
+    <Files>
+      <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/LaserTagManager.cs" Line="28" Column="15" />
+      <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/AutoAuth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/Projectile.cs" Line="55" Column="1" />
+      <File FileName="Assets/collision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Teleportal/Scripts/EvanAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Teleportal/Scripts/TpCollision.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Groccer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Teleportal" expanded="True">
+                <Node name="Samples" expanded="True">
+                  <Node name="Laser Tag" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Scripts" expanded="True">
+                  <Node name="TpCollision.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77184a30-3340-4864-af7e-34ebdbd8091a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
