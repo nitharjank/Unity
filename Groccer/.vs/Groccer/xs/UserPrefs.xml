@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{528A230B-5ADD-1ADB-4204-B581216ADE01}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Teleportal/Scripts/TpCollision.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Teleportal/Scripts/EvanAnimator.cs">
     <Files>
       <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/LaserTagManager.cs" Line="29" Column="10" />
-      <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/AutoAuth.cs" Line="25" Column="1" />
-      <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/Projectile.cs" Line="30" Column="46" />
-      <File FileName="Assets/collision.cs" Line="1" Column="1" />
-      <File FileName="Assets/Teleportal/Scripts/EvanAnimator.cs" Line="9" Column="2" />
+      <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/AutoAuth.cs" />
+      <File FileName="Assets/Teleportal/Samples/Laser Tag/Scripts/Projectile.cs" />
+      <File FileName="Assets/collision.cs" />
+      <File FileName="Assets/Teleportal/Scripts/EvanAnimator.cs" Line="28" Column="1" />
       <File FileName="Assets/Teleportal/Scripts/TpCollision.cs" Line="25" Column="1" />
-      <File FileName="Assets/Teleportal/Scripts/TPCameraSetup.cs" Line="30" Column="2" />
+      <File FileName="Assets/Teleportal/Scripts/TPCameraSetup.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,7 +21,7 @@
                   </Node>
                 </Node>
                 <Node name="Scripts" expanded="True">
-                  <Node name="TpCollision.cs" selected="True" />
+                  <Node name="EvanAnimator.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -32,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2a9f075d-9169-4a73-b484-b2a48e2f7682" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af908eae-317a-4ad8-82f1-978ee990b834" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
